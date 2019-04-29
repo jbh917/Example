@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		C2ACADAF2272D7BA00F5DD99 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2ACADAE2272D7BA00F5DD99 /* AppDelegate.swift */; };
-		C2ACADB12272D7BA00F5DD99 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2ACADB02272D7BA00F5DD99 /* ViewController.swift */; };
 		C2ACADB42272D7BA00F5DD99 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2ACADB22272D7BA00F5DD99 /* Main.storyboard */; };
 		C2ACADB72272D7BA00F5DD99 /* PreciumWallet.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C2ACADB52272D7BA00F5DD99 /* PreciumWallet.xcdatamodeld */; };
 		C2ACADB92272D7BB00F5DD99 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2ACADB82272D7BB00F5DD99 /* Assets.xcassets */; };
@@ -18,7 +17,6 @@
 /* Begin PBXFileReference section */
 		C2ACADAB2272D7BA00F5DD99 /* PreciumWallet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PreciumWallet.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2ACADAE2272D7BA00F5DD99 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		C2ACADB02272D7BA00F5DD99 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		C2ACADB32272D7BA00F5DD99 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C2ACADB62272D7BA00F5DD99 /* PreciumWallet.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = PreciumWallet.xcdatamodel; sourceTree = "<group>"; };
 		C2ACADB82272D7BB00F5DD99 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -57,7 +55,6 @@
 			isa = PBXGroup;
 			children = (
 				C2ACADAE2272D7BA00F5DD99 /* AppDelegate.swift */,
-				C2ACADB02272D7BA00F5DD99 /* ViewController.swift */,
 				C2ACADB22272D7BA00F5DD99 /* Main.storyboard */,
 				C2ACADB82272D7BB00F5DD99 /* Assets.xcassets */,
 				C2ACADBA2272D7BB00F5DD99 /* LaunchScreen.storyboard */,
@@ -138,7 +135,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C2ACADB12272D7BA00F5DD99 /* ViewController.swift in Sources */,
 				C2ACADAF2272D7BA00F5DD99 /* AppDelegate.swift in Sources */,
 				C2ACADB72272D7BA00F5DD99 /* PreciumWallet.xcdatamodeld in Sources */,
 			);
